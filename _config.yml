@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Steven's Notes
+title: StevenZ.me
 subtitle:
 description:
 author: Steven
@@ -90,10 +90,10 @@ rss:
 #since: 2015
 
 # icon between year and author @Footer
-authoricon: heart
+# authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: true
+copyright: false
 
 # ---------------------------------------------------------------
 # SEO Settings
@@ -119,9 +119,9 @@ index_with_subtitle: false
 menu:
   home: /
   # categories: /categories/
-  cv: /cv/
-  papers: /papers/
-  archives: /archives/
+  # cv: /cv/
+  papers: /category/#/publications
+  # archives: /archives/
   
   # tags: /tags/
   #sitemap: /sitemap.xml
