@@ -119,9 +119,9 @@ index_with_subtitle: false
 menu:
   home: /
   #categories: /categories/
-  archives: /archives/
   cv: /cv/
   papers: /papers/
+  archives: /archives/
   
   # tags: /tags/
   #sitemap: /sitemap.xml
