@@ -119,8 +119,10 @@ index_with_subtitle: false
 menu:
   home: /
   #categories: /categories/
-  about: /about/
   archives: /archives/
+  cv: /cv/
+  papers: /papers/
+  
   # tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
@@ -151,8 +153,8 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-# scheme: Muse
-scheme: Mist
+scheme: Muse
+# scheme: Mist
 #scheme: Pisces
 
 
@@ -222,13 +224,13 @@ font:
 #   Map a menu item to a specific FontAwesome icon name.
 #   Key is the name of the item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an globe mask icon presenting up means that the item has no mapping icon.
-social_icons:
-  enable: true
-  # Icon Mappings.
-  # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+# social_icons:
+#   enable: true
+#   # Icon Mappings.
+#   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
+#   GitHub: github
+#   Twitter: twitter
+#   Weibo: weibo
 
 
 # Sidebar Avatar
