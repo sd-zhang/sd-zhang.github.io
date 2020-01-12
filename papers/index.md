@@ -1,6 +1,7 @@
 ---
+title: Curriculum Vitae
 layout: page
-type: cv
+# type: cv
 ---
 
 Building...
