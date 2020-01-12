@@ -137,11 +137,12 @@ menu_icons:
   enable: true
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
-  about: user
+  cv: user
+  papers: book
   categories: th
   schedule: calendar
   tags: tags
-  archives: archive
+  archives: list
   sitemap: sitemap
   commonweal: heartbeat
 
