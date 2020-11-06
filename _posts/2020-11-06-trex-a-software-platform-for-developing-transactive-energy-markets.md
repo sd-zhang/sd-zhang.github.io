@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "T-REX: A Software Platform for Developing Transactive Energy Markets"
+title: T-REX - A Software Platform for Developing Transactive Energy Markets
 link: /files/trex-a-software-platform-for-developing-transactive-energy-markets/trex-a-software-platform-for-developing-transactive-energy-markets.pdf
 categories:
  - publications
